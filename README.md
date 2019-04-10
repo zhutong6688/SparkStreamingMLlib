@@ -1,0 +1,2 @@
+# SparkStreamingMLlib
+SparkStreaming整合MLlib来做大规模的机器学习
